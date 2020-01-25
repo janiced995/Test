@@ -18,6 +18,7 @@ public class LoginTest {
 	
 	public static void test2() {
 		System.out.println("test");
+		System.out.println("test");
 		
 	}
 
