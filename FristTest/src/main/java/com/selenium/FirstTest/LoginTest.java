@@ -10,6 +10,7 @@ public class LoginTest {
 	public static void HomePage() {
 		System.out.println("Home Page first");
 		System.out.println("Home Page");
+		System.out.println("Home Page");
 	}
 
 }
