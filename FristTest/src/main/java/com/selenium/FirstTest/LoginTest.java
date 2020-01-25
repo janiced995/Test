@@ -10,5 +10,9 @@ public class LoginTest {
 	public static void HomePage() {
 		System.out.println("Home Page first");
 	}
+	
+	public static void PageTitle() {
+		System.out.println("Page Title");
+	}
 
 }
