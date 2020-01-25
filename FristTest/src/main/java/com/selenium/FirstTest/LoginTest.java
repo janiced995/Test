@@ -7,5 +7,9 @@ public class LoginTest {
 		System.out.println("login");
 		
 	}
+	
+	public static void HomePage() {
+		System.out.println("Home Page");
+	}
 
 }
